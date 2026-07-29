@@ -17,4 +17,5 @@ The goal of this project was to extract messy e-commerce sales data, clean it us
 4. **Built Interactive Dashboard:** Used a Dynamic Table (`Ctrl+T`) to feed a Pivot Table, visualizing the deal distribution via a Pie Chart controlled by a Category Slicer.
 
 ## 📈 Final Dashboard
-*(Note: Edit this README to insert your screenshot here by dragging and dropping your image into the editor)*
+<img width="758" height="348" alt="Screenshot 2026-07-29 230628" src="https://github.com/user-attachments/assets/67e56fff-9b82-4fea-82c3-6d3807a6a610" />
+
